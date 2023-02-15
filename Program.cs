@@ -20,8 +20,13 @@ namespace post
         [JsonProperty("country abbreviation")]
         public string? cabbreviation { get; set; }
 
+        public List<places>? places { get; set; }
     }
-
+    class places
+    {
+        [JsonProperty("place name")]
+        public string? city { get; set; }
+    }
     class Program
     {
         private static readonly HttpClient client = new HttpClient();
@@ -55,7 +60,8 @@ namespace post
                     Console.WriteLine("Zip Number: " + zipc.postcode);
                     Console.WriteLine("Country: " + zipc.country);
                     Console.WriteLine("Country Abbreviation: " + zipc.cabbreviation);
-                    Console.WriteLine("The parsed stuff is: ",zipc);
+                    //Console.WriteLine("The parsed stuff is: ",zipc);
+                    
                 }
                 catch (Exception)
                 {
