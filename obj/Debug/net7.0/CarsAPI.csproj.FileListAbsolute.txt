@@ -1,0 +1,17 @@
+C:\Users\John\CarsAPI\obj\Debug\net7.0\CarsAPI.csproj.AssemblyReference.cache
+C:\Users\John\CarsAPI\obj\Debug\net7.0\CarsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\CarsAPI\obj\Debug\net7.0\CarsAPI.AssemblyInfoInputs.cache
+C:\Users\John\CarsAPI\obj\Debug\net7.0\CarsAPI.AssemblyInfo.cs
+C:\Users\John\CarsAPI\obj\Debug\net7.0\CarsAPI.csproj.CoreCompileInputs.cache
+C:\Users\John\CarsAPI\bin\Debug\net7.0\CarsAPI.exe
+C:\Users\John\CarsAPI\bin\Debug\net7.0\CarsAPI.deps.json
+C:\Users\John\CarsAPI\bin\Debug\net7.0\CarsAPI.runtimeconfig.json
+C:\Users\John\CarsAPI\bin\Debug\net7.0\CarsAPI.dll
+C:\Users\John\CarsAPI\bin\Debug\net7.0\CarsAPI.pdb
+C:\Users\John\CarsAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\John\CarsAPI\obj\Debug\net7.0\CarsAPI.csproj.CopyComplete
+C:\Users\John\CarsAPI\obj\Debug\net7.0\CarsAPI.dll
+C:\Users\John\CarsAPI\obj\Debug\net7.0\refint\CarsAPI.dll
+C:\Users\John\CarsAPI\obj\Debug\net7.0\CarsAPI.pdb
+C:\Users\John\CarsAPI\obj\Debug\net7.0\CarsAPI.genruntimeconfig.cache
+C:\Users\John\CarsAPI\obj\Debug\net7.0\ref\CarsAPI.dll
